@@ -1,0 +1,22 @@
+{
+  "name": "mocha-sandboxed-module-loader",
+  "version": "1.0.0",
+  "description": "Use sandboxed-module-loader with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanblumenberg/mocha-sandboxed-module-loader.git"
+  },
+  "author": "johan.blumenberg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johanblumenberg/mocha-sandboxed-module-loader/issues"
+  },
+  "homepage": "https://github.com/johanblumenberg/mocha-sandboxed-module-loader#readme",
+  "dependencies": {
+    "sandboxed-module-loader": "^1.0.0"
+  }
+}
