@@ -1,7 +1,7 @@
 const loader = require('sandboxed-module-loader');
 
 loader(/\/mocha\/lib\/mocha.js$/, {
-  verbose: false,
+  verbose: 0,
   sandboxExternal: false
 });
 
