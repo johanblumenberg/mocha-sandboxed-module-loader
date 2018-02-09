@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/johanblumenberg/mocha-sandboxed-module-loader#readme",
   "dependencies": {
-    "sandboxed-module-loader": "^1.0.1"
+    "sandboxed-module-loader": "1.0.4"
   }
 }
