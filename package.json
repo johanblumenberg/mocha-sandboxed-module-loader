@@ -1,6 +1,6 @@
 {
   "name": "mocha-sandboxed-module-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Use sandboxed-module-loader with mocha",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/johanblumenberg/mocha-sandboxed-module-loader#readme",
   "dependencies": {
-    "sandboxed-module-loader": "1.0.4"
+    "sandboxed-module-loader": "1.0.5"
   }
 }
