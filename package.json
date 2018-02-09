@@ -1,6 +1,6 @@
 {
   "name": "mocha-sandboxed-module-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Use sandboxed-module-loader with mocha",
   "main": "index.js",
   "scripts": {
